@@ -1,0 +1,43 @@
+.marcar{
+    width: 100%;
+    background: #fff;
+    align-items: center;
+}
+
+.marcar p{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 10px;;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.btn p{
+    font-size: 12px;
+    color: #fff;
+}
+
+.btn{
+    background: #A4508B;
+    width: 200px;
+    border: 0;
+    outline: 0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 45%;
+    display: flex;
+}
+
+.btn img{
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+}
+
+.calendario{
+    margin-top: 10px;
+    margin-left: 38%;
+    padding-bottom: 20px;
+}
